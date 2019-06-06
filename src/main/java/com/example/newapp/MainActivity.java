@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 intent_to_activity2.putExtra("gzy",100);
                 startActivity(intent_to_activity2);
             }
+
         });
     }
 }
